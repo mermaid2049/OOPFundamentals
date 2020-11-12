@@ -4,3 +4,9 @@ C:\Users\oceee\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.
 C:\Users\oceee\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
 C:\Users\oceee\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\oceee\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\X1148516\Documents\Oshin\OOPS Fundamentals by DK\OOPFundamentals\ACM.BL\bin\Debug\ACM.BL.pdb

@@ -24,7 +24,7 @@ namespace ACM.BL
         private string _lastname;
 
         public int CustomerId { get; private set; }
-        public string EmailAdress { get; set; }
+        public string EmailAddress { get; set; }
         public string FirstName { get; set; }
         public string FullName
         {
@@ -63,44 +63,13 @@ namespace ACM.BL
             }
         }
         ///<summary>
-        ///Retrieve one customer
-        /// </summary>
-        public Customer Retrieve(int customerId)
-        {
-            //Code that retrieves the defined customer
-
-            return new Customer();
-        }
-          ///<summary>
-          ///Saves the current customer
-          /// </summary>
-          /// <returns></returns>
-          public bool Save()
-            {
-                //Code that saves the defined customer
-                return true;
-
-            }
         
-        ///<summary> 
-        ///Retrieve all customers.
-        ///</summary>
-        public List<Customer>Retreive()
-        {
-            //Code that retrieves all the customers
-            return new List<Customer>(); 
-        }
-
-        ///<summary>
-        ///Validates the customer data 
-        ///</summary>
-        ///<returns></returns>
         public bool Validate()
         {
             var isValid = true;
 
             if (string.IsNullOrWhiteSpace(LastName)) isValid = false;
-            if (string.IsNullOrWhiteSpace(EmailAdress)) isValid = false;
+            if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
             return isValid;
 
         }

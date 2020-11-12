@@ -21,17 +21,7 @@ namespace ACM.BL
         public DateTimeOffset? OrderDate { get; set; }
         public int OrderId { get; set; }
 
-        public Order Retrieve(int orderId)
-        {
-            //Retrieves one order that retrieves the defined order
-            return new Order(); 
-        }
-
-        public bool Save()
-        {
-            return true ; 
-
-        }
+     
 
         public bool OrderValidate()
         {
